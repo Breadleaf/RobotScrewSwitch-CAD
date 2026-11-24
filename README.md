@@ -23,7 +23,7 @@ something like $0.90 for two square nuts, and $0.70 for a set screw.
 ## Performance
 
 I don't know yet, I will update soon. I measured resistance and found it to be too low for my
-multmeter to pick up on. So its probably fine.
+multmeter to pick up on. So its probably fine. It weighs ~8.8g with wires and all hardware.
 
 ## License
 
