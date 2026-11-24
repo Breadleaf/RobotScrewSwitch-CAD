@@ -25,6 +25,12 @@ something like $0.90 for two square nuts, and $0.70 for a set screw.
 I don't know yet, I will update soon. I measured resistance and found it to be too low for my
 multmeter to pick up on. So its probably fine. It weighs ~8.9g with wires and all hardware.
 
+## Use in other projects
+
+I included `./RobotScrewSwitch.step` for a high poly high detail render and
+`./Simplified-RobotScrewSwitch.step` for a more practical low poly render for use in actual CAD
+work.
+
 ## License
 
 Do what you want; dont blame me if you break something. I am not liable. Be safe :)
