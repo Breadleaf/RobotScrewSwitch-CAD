@@ -1,6 +1,6 @@
 # RobotScrewSwitch-CAD
 
-<img src="./product.jpeg" alt="product image" width="50%">
+<img src="./product.jpeg" alt="Product Image" width="50%">
 
 This is a project inspired by [this video](https://youtu.be/JzPqw-R81Io?si=6OAaGXtyz0344GNZ).
 
@@ -30,6 +30,11 @@ multmeter to pick up on. So its probably fine. It weighs ~8.9g with wires and al
 I included `./RobotScrewSwitch.step` for a high poly high detail render and
 `./Simplified-RobotScrewSwitch.step` for a more practical low poly render for use in actual CAD
 work.
+
+<img src="./MasterSketchReference.png" alt="Master Sketch Reference Image" width="50%">
+
+Above is a screen shot of the master sketch with all constraints and dimensions. This should
+aid in creating a proper mounting/placement within your project.
 
 ## License
 
